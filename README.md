@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Adib Fruitwala
 
-<!--
-**adibtech24/adibtech24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🎓 BCA Graduate  
+📍 Bharuch, Gujarat  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a MERN Stack Developer with hands-on experience in building full-stack web applications using React.js, Node.js, and MongoDB.
+
+I enjoy developing scalable applications, working with APIs, and creating responsive user interfaces.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML, CSS, JavaScript
+- React.js
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- REST API Development
+
+### Database
+- MongoDB
+- SQL Server
+- MySQL (Basic)
+
+### Tools
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 📌 Projects
+
+### 🔹 Turf Cricket Booking Platform
+- Full-stack MERN application
+- User authentication & booking system
+- REST API integration
+
+### 🔹 APMC Billing Portal
+- Mobile-based billing system
+- Backend using ASP.NET Core
+- Database: SQL Server
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/adib-tech24/
+- Email: fruitwalaadib@gmail.com
+
+---
+
+## 🎯 Current Goal
+Looking for an opportunity as a MERN Stack Developer (Fresher / Intern / Junior Developer)
+
+---
+
+⭐ Thanks for visiting my profile!
